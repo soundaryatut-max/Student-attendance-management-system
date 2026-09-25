@@ -26,8 +26,7 @@ The main objective of this project is to design an attractive and interactive at
 
 2.Student login
 
-<img width="1440" height="1024" alt="Student login (1)" src="https://github.com/user-
-attachments/assets/d51baa7f-449a-446c-9184-18be1818e515" />
+<img width="1440" height="1024" alt="Student login (1)" src="https://github.com/user-attachments/assets/fd5419c1-693f-46b4-a5a0-29c620c50f47" />
 
 3.Teacher login
 
